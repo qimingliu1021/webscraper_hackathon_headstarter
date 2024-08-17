@@ -1,0 +1,21 @@
+{
+  "name": "hackathon_0817_webscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "cheerio": "^1.0.0",
+    "chromedriver": "^127.0.3",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.3",
+    "playwright": "^1.46.1",
+    "selenium-webdriver": "^4.23.0"
+  }
+}
